@@ -1,0 +1,28 @@
+{
+  "name": "SimpleRealEstatePack",
+  "version": "1.4.4",
+  "homepage": "http://wordpress.org",
+  "author": "Max Chirkov <not.available@nomail.pls>",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-size": "^2.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-header": "*",
+    "gulp-rename": "*",
+    "gulp-sass": "^2.3.2",
+    "gulp-size": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/maxchirkov/simple-real-estate-pack",
+  "license": "MIT"
+}

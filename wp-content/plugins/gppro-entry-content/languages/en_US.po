@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gppro-entry-content\n"
+"POT-Creation-Date: 2014-03-22 14:56-0500\n"
+"PO-Revision-Date: 2014-03-22 14:56-0500\n"
+"Last-Translator: Reaktiv Studios <andrew@andrewnorcross.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: gppro-entry-content.php:109
+msgid ""
+"This plugin requires Genesis Design Palette Pro to function and cannot be "
+"activated."
+msgstr ""
+"This plugin requires Genesis Design Palette Pro to function and cannot be "
+"activated."
+
+#: gppro-entry-content.php:323
+msgid ""
+"You are currently using the Entry Content add on, so all settings are now "
+"available there."
+msgstr ""
+"You are currently using the Entry Content add on, so all settings are now "
+"available there."
+
+#: gppro-entry-content.php:342 gppro-entry-content.php:343
+msgid "Entry Content"
+msgstr "Entry Content"
+
+#: gppro-entry-content.php:344
+msgid "Fine tune the look of the content inside posts and pages."
+msgstr "Fine tune the look of the content inside posts and pages."
+
+#: gppro-entry-content.php:365
+msgid "H1 Headers"
+msgstr "H1 Headers"
+
+#: gppro-entry-content.php:370 gppro-entry-content.php:479
+#: gppro-entry-content.php:588 gppro-entry-content.php:697
+#: gppro-entry-content.php:806 gppro-entry-content.php:915
+#: gppro-entry-content.php:1024 gppro-entry-content.php:1134
+#: gppro-entry-content.php:1267 gppro-entry-content.php:1400
+#: gppro-entry-content.php:1509
+msgid "Colors"
+msgstr "Colors"
+
+#: gppro-entry-content.php:373 gppro-entry-content.php:482
+#: gppro-entry-content.php:591 gppro-entry-content.php:700
+#: gppro-entry-content.php:809 gppro-entry-content.php:918
+#: gppro-entry-content.php:1027 gppro-entry-content.php:1137
+#: gppro-entry-content.php:1270 gppro-entry-content.php:1403
+#: gppro-entry-content.php:1518
+msgid "Base Color"
+msgstr "Base Color"
+
+#: gppro-entry-content.php:379 gppro-entry-content.php:386
+#: gppro-entry-content.php:488 gppro-entry-content.php:495
+#: gppro-entry-content.php:597 gppro-entry-content.php:604
+#: gppro-entry-content.php:706 gppro-entry-content.php:713
+#: gppro-entry-content.php:815 gppro-entry-content.php:822
+#: gppro-entry-content.php:924 gppro-entry-content.php:931
+#: gppro-entry-content.php:1033 gppro-entry-content.php:1040
+#: gppro-entry-content.php:1143 gppro-entry-content.php:1150
+#: gppro-entry-content.php:1276 gppro-entry-content.php:1283
+#: gppro-entry-content.php:1409 gppro-entry-content.php:1416
+msgid "Link Color"
+msgstr "Link Color"
+
+#: gppro-entry-content.php:380 gppro-entry-content.php:456
+#: gppro-entry-content.php:489 gppro-entry-content.php:565
+#: gppro-entry-content.php:598 gppro-entry-content.php:674
+#: gppro-entry-content.php:707 gppro-entry-content.php:783
+#: gppro-entry-content.php:816 gppro-entry-content.php:892
+#: gppro-entry-content.php:925 gppro-entry-content.php:1001
+#: gppro-entry-content.php:1034 gppro-entry-content.php:1110
+#: gppro-entry-content.php:1144 gppro-entry-content.php:1244
+#: gppro-entry-content.php:1277 gppro-entry-content.php:1377
+#: gppro-entry-content.php:1410 gppro-entry-content.php:1486
+msgid "Base"
+msgstr "Base"
+
+#: gppro-entry-content.php:387 gppro-entry-content.php:463
+#: gppro-entry-content.php:496 gppro-entry-content.php:572
+#: gppro-entry-content.php:605 gppro-entry-content.php:681
+#: gppro-entry-content.php:714 gppro-entry-content.php:790
+#: gppro-entry-content.php:823 gppro-entry-content.php:899
+#: gppro-entry-content.php:932 gppro-entry-content.php:1008
+#: gppro-entry-content.php:1041 gppro-entry-content.php:1117
+#: gppro-entry-content.php:1151 gppro-entry-content.php:1251
+#: gppro-entry-content.php:1284 gppro-entry-content.php:1384
+#: gppro-entry-content.php:1417 gppro-entry-content.php:1493
+msgid "Hover"
+msgstr "Hover"
+
+#: gppro-entry-content.php:396 gppro-entry-content.php:505
+#: gppro-entry-content.php:614 gppro-entry-content.php:723
+#: gppro-entry-content.php:832 gppro-entry-content.php:941
+#: gppro-entry-content.php:1050 gppro-entry-content.php:1160
+#: gppro-entry-content.php:1293 gppro-entry-content.php:1426
+#: gppro-entry-content.php:1527
+msgid "Typography"
+msgstr "Typography"
+
+#: gppro-entry-content.php:399 gppro-entry-content.php:508
+#: gppro-entry-content.php:617 gppro-entry-content.php:726
+#: gppro-entry-content.php:835 gppro-entry-content.php:944
+#: gppro-entry-content.php:1053 gppro-entry-content.php:1163
+#: gppro-entry-content.php:1296 gppro-entry-content.php:1429
+#: gppro-entry-content.php:1530
+msgid "Font Stack"
+msgstr "Font Stack"
+
+#: gppro-entry-content.php:405 gppro-entry-content.php:514
+#: gppro-entry-content.php:623 gppro-entry-content.php:732
+#: gppro-entry-content.php:841 gppro-entry-content.php:950
+#: gppro-entry-content.php:1059 gppro-entry-content.php:1169
+#: gppro-entry-content.php:1302 gppro-entry-content.php:1435
+#: gppro-entry-content.php:1536
+msgid "Font Size"
+msgstr "Font Size"
+
+#: gppro-entry-content.php:412 gppro-entry-content.php:521
+#: gppro-entry-content.php:630 gppro-entry-content.php:739
+#: gppro-entry-content.php:848 gppro-entry-content.php:957
+#: gppro-entry-content.php:1066 gppro-entry-content.php:1176
+#: gppro-entry-content.php:1309 gppro-entry-content.php:1442
+#: gppro-entry-content.php:1543
+msgid "Font Weight"
+msgstr "Font Weight"
+
+#: gppro-entry-content.php:416 gppro-entry-content.php:525
+#: gppro-entry-content.php:634 gppro-entry-content.php:743
+#: gppro-entry-content.php:852 gppro-entry-content.php:961
+#: gppro-entry-content.php:1070 gppro-entry-content.php:1180
+#: gppro-entry-content.php:1313 gppro-entry-content.php:1446
+#: gppro-entry-content.php:1547
+msgid "Certain fonts will not display every weight."
+msgstr "Certain fonts will not display every weight."
+
+#: gppro-entry-content.php:422 gppro-entry-content.php:443
+#: gppro-entry-content.php:531 gppro-entry-content.php:552
+#: gppro-entry-content.php:640 gppro-entry-content.php:661
+#: gppro-entry-content.php:749 gppro-entry-content.php:770
+#: gppro-entry-content.php:858 gppro-entry-content.php:879
+#: gppro-entry-content.php:967 gppro-entry-content.php:988
+#: gppro-entry-content.php:1076 gppro-entry-content.php:1097
+#: gppro-entry-content.php:1186 gppro-entry-content.php:1231
+#: gppro-entry-content.php:1319 gppro-entry-content.php:1364
+#: gppro-entry-content.php:1452 gppro-entry-content.php:1473
+msgid "Text Appearance"
+msgstr "Text Appearance"
+
+#: gppro-entry-content.php:425 gppro-entry-content.php:534
+#: gppro-entry-content.php:643 gppro-entry-content.php:752
+#: gppro-entry-content.php:861 gppro-entry-content.php:970
+#: gppro-entry-content.php:1079 gppro-entry-content.php:1198
+#: gppro-entry-content.php:1331 gppro-entry-content.php:1455
+msgid "Margin Bottom"
+msgstr "Margin Bottom"
+
+#: gppro-entry-content.php:434 gppro-entry-content.php:543
+#: gppro-entry-content.php:652 gppro-entry-content.php:761
+#: gppro-entry-content.php:870 gppro-entry-content.php:979
+#: gppro-entry-content.php:1088 gppro-entry-content.php:1216
+#: gppro-entry-content.php:1349 gppro-entry-content.php:1464
+msgid "Padding Bottom"
+msgstr "Padding Bottom"
+
+#: gppro-entry-content.php:449 gppro-entry-content.php:558
+#: gppro-entry-content.php:667 gppro-entry-content.php:776
+#: gppro-entry-content.php:885 gppro-entry-content.php:994
+#: gppro-entry-content.php:1103 gppro-entry-content.php:1237
+#: gppro-entry-content.php:1370 gppro-entry-content.php:1479
+msgid "Text Alignment"
+msgstr "Text Alignment"
+
+#: gppro-entry-content.php:455 gppro-entry-content.php:462
+#: gppro-entry-content.php:564 gppro-entry-content.php:571
+#: gppro-entry-content.php:673 gppro-entry-content.php:680
+#: gppro-entry-content.php:782 gppro-entry-content.php:789
+#: gppro-entry-content.php:891 gppro-entry-content.php:898
+#: gppro-entry-content.php:1000 gppro-entry-content.php:1007
+#: gppro-entry-content.php:1109 gppro-entry-content.php:1116
+#: gppro-entry-content.php:1243 gppro-entry-content.php:1250
+#: gppro-entry-content.php:1376 gppro-entry-content.php:1383
+#: gppro-entry-content.php:1485 gppro-entry-content.php:1492
+msgid "Link Style"
+msgstr "Link Style"
+
+#: gppro-entry-content.php:474
+msgid "H2 Headers"
+msgstr "H2 Headers"
+
+#: gppro-entry-content.php:583
+msgid "H3 Headers"
+msgstr "H3 Headers"
+
+#: gppro-entry-content.php:692
+msgid "H4 Headers"
+msgstr "H4 Headers"
+
+#: gppro-entry-content.php:801
+msgid "H5 Headers"
+msgstr "H5 Headers"
+
+#: gppro-entry-content.php:910
+msgid "H6 Headers"
+msgstr "H6 Headers"
+
+#: gppro-entry-content.php:1019
+msgid "Paragraphs"
+msgstr "Paragraphs"
+
+#: gppro-entry-content.php:1129
+msgid "Unordered Lists (<ul>)"
+msgstr "Unordered Lists (<ul>)"
+
+#: gppro-entry-content.php:1189 gppro-entry-content.php:1322
+msgid "Margin Left"
+msgstr "Margin Left"
+
+#: gppro-entry-content.php:1207 gppro-entry-content.php:1340
+msgid "Padding Left"
+msgstr "Padding Left"
+
+#: gppro-entry-content.php:1225 gppro-entry-content.php:1358
+msgid "List Style"
+msgstr "List Style"
+
+#: gppro-entry-content.php:1262
+msgid "Ordered Lists (<ol>)"
+msgstr "Ordered Lists (<ol>)"
+
+#: gppro-entry-content.php:1395
+msgid "Image Captions"
+msgstr "Image Captions"
+
+#: gppro-entry-content.php:1504
+msgid "Code Blocks"
+msgstr "Code Blocks"
+
+#: gppro-entry-content.php:1512
+msgid "Background Color"
+msgstr "Background Color"
